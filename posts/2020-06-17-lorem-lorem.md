@@ -3,7 +3,7 @@ date: 2020-06-17 17:50:00
 title: Lorem lorem ipsum
 description: And I'm not sure about the universe sss.
 category: JS
-background: "#7aab13"
+background: "yellow"
 ---
 
 # Lorem ipsum
