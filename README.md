@@ -4,6 +4,8 @@ Curso ministrado pelo Willian Justen.
 
 https://www.udemy.com/course/gatsby-crie-um-site-pwa-com-react-graphql-e-netlify-cms/
 
+🏆 [Certificado de conclusão](https://drive.google.com/file/d/1nI57f_KKW7YdJi_fsSArcT6Lq-llbKVa/view?usp=sharing)
+
 ## Anotações realizadas durante o curso
 
 ## Seção 1: Introdução
@@ -191,6 +193,8 @@ https://www.udemy.com/course/gatsby-crie-um-site-pwa-com-react-graphql-e-netlify
 ### Conhecendo e configurando o Netlify CMS
 
 ### Configurando campos extras na CMS e criando um post
+
+
 
 
 
