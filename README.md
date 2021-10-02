@@ -1,4 +1,10 @@
-# Anotações realizadas durante o curso
+# Gatsby: Crie um site PWA com React, GraphQL e Netlify CMS
+Crie e coloque no ar um site extremamente rápido, utilizando boas práticas e as ferramentas mais utilizadas no mercado.
+Curso ministrado pelo Willian Justen.
+
+https://www.udemy.com/course/gatsby-crie-um-site-pwa-com-react-graphql-e-netlify-cms/
+
+## Anotações realizadas durante o curso
 
 ## Seção 1: Introdução
 
